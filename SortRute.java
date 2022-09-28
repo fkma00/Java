@@ -5,8 +5,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-//Oblig 6
-
 public class SortRute extends Rute {
     
     public SortRute(Labyrint lab, int x, int y) {
