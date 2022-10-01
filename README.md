@@ -1,3 +1,2 @@
 # Java
-Java-programmer
-Java prosjekter
+Utvalg av noen Java programmer jeg har jobbet med tidligere
